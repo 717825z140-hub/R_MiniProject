@@ -1,0 +1,265 @@
+Entity,Code,Year,InternetUsers_pct
+World,WLD,2000,6.5
+World,WLD,2001,8.32
+World,WLD,2002,10.14
+World,WLD,2003,11.96
+World,WLD,2004,13.78
+World,WLD,2005,15.6
+World,WLD,2006,18.24
+World,WLD,2007,20.88
+World,WLD,2008,23.52
+World,WLD,2009,26.16
+World,WLD,2010,28.8
+World,WLD,2011,31.14
+World,WLD,2012,33.48
+World,WLD,2013,35.82
+World,WLD,2014,38.16
+World,WLD,2015,40.5
+World,WLD,2016,44.38
+World,WLD,2017,48.26
+World,WLD,2018,52.14
+World,WLD,2019,56.02
+World,WLD,2020,59.9
+World,WLD,2021,62.27
+World,WLD,2022,64.63
+World,WLD,2023,67.0
+India,IND,2000,0.5
+India,IND,2001,0.88
+India,IND,2002,1.26
+India,IND,2003,1.64
+India,IND,2004,2.02
+India,IND,2005,2.4
+India,IND,2006,2.82
+India,IND,2007,3.24
+India,IND,2008,3.66
+India,IND,2009,4.08
+India,IND,2010,4.5
+India,IND,2011,7.0
+India,IND,2012,9.5
+India,IND,2013,12.0
+India,IND,2014,14.5
+India,IND,2015,17.0
+India,IND,2016,22.2
+India,IND,2017,27.4
+India,IND,2018,32.6
+India,IND,2019,37.8
+India,IND,2020,43.0
+India,IND,2021,46.0
+India,IND,2022,49.0
+India,IND,2023,52.0
+China,CHN,2000,1.8
+China,CHN,2001,3.14
+China,CHN,2002,4.48
+China,CHN,2003,5.82
+China,CHN,2004,7.16
+China,CHN,2005,8.5
+China,CHN,2006,13.66
+China,CHN,2007,18.82
+China,CHN,2008,23.98
+China,CHN,2009,29.14
+China,CHN,2010,34.3
+China,CHN,2011,37.5
+China,CHN,2012,40.7
+China,CHN,2013,43.9
+China,CHN,2014,47.1
+China,CHN,2015,50.3
+China,CHN,2016,54.32
+China,CHN,2017,58.34
+China,CHN,2018,62.36
+China,CHN,2019,66.38
+China,CHN,2020,70.4
+China,CHN,2021,72.6
+China,CHN,2022,74.8
+China,CHN,2023,77.0
+United States,USA,2000,43.1
+United States,USA,2001,48.08
+United States,USA,2002,53.06
+United States,USA,2003,58.04
+United States,USA,2004,63.02
+United States,USA,2005,68.0
+United States,USA,2006,68.74
+United States,USA,2007,69.48
+United States,USA,2008,70.22
+United States,USA,2009,70.96
+United States,USA,2010,71.7
+United States,USA,2011,72.26
+United States,USA,2012,72.82
+United States,USA,2013,73.38
+United States,USA,2014,73.94
+United States,USA,2015,74.5
+United States,USA,2016,77.1
+United States,USA,2017,79.7
+United States,USA,2018,82.3
+United States,USA,2019,84.9
+United States,USA,2020,87.5
+United States,USA,2021,88.67
+United States,USA,2022,89.83
+United States,USA,2023,91.0
+Brazil,BRA,2000,2.9
+Brazil,BRA,2001,6.52
+Brazil,BRA,2002,10.14
+Brazil,BRA,2003,13.76
+Brazil,BRA,2004,17.38
+Brazil,BRA,2005,21.0
+Brazil,BRA,2006,24.94
+Brazil,BRA,2007,28.88
+Brazil,BRA,2008,32.82
+Brazil,BRA,2009,36.76
+Brazil,BRA,2010,40.7
+Brazil,BRA,2011,44.22
+Brazil,BRA,2012,47.74
+Brazil,BRA,2013,51.26
+Brazil,BRA,2014,54.78
+Brazil,BRA,2015,58.3
+Brazil,BRA,2016,62.84
+Brazil,BRA,2017,67.38
+Brazil,BRA,2018,71.92
+Brazil,BRA,2019,76.46
+Brazil,BRA,2020,81.0
+Brazil,BRA,2021,82.0
+Brazil,BRA,2022,83.0
+Brazil,BRA,2023,84.0
+Nigeria,NGA,2000,0.1
+Nigeria,NGA,2001,0.84
+Nigeria,NGA,2002,1.58
+Nigeria,NGA,2003,2.32
+Nigeria,NGA,2004,3.06
+Nigeria,NGA,2005,3.8
+Nigeria,NGA,2006,5.34
+Nigeria,NGA,2007,6.88
+Nigeria,NGA,2008,8.42
+Nigeria,NGA,2009,9.96
+Nigeria,NGA,2010,11.5
+Nigeria,NGA,2011,13.4
+Nigeria,NGA,2012,15.3
+Nigeria,NGA,2013,17.2
+Nigeria,NGA,2014,19.1
+Nigeria,NGA,2015,21.0
+Nigeria,NGA,2016,23.9
+Nigeria,NGA,2017,26.8
+Nigeria,NGA,2018,29.7
+Nigeria,NGA,2019,32.6
+Nigeria,NGA,2020,35.5
+Nigeria,NGA,2021,38.67
+Nigeria,NGA,2022,41.83
+Nigeria,NGA,2023,45.0
+United Kingdom,GBR,2000,26.8
+United Kingdom,GBR,2001,35.44
+United Kingdom,GBR,2002,44.08
+United Kingdom,GBR,2003,52.72
+United Kingdom,GBR,2004,61.36
+United Kingdom,GBR,2005,70.0
+United Kingdom,GBR,2006,73.0
+United Kingdom,GBR,2007,76.0
+United Kingdom,GBR,2008,79.0
+United Kingdom,GBR,2009,82.0
+United Kingdom,GBR,2010,85.0
+United Kingdom,GBR,2011,86.4
+United Kingdom,GBR,2012,87.8
+United Kingdom,GBR,2013,89.2
+United Kingdom,GBR,2014,90.6
+United Kingdom,GBR,2015,92.0
+United Kingdom,GBR,2016,92.56
+United Kingdom,GBR,2017,93.12
+United Kingdom,GBR,2018,93.68
+United Kingdom,GBR,2019,94.24
+United Kingdom,GBR,2020,94.8
+United Kingdom,GBR,2021,95.53
+United Kingdom,GBR,2022,96.27
+United Kingdom,GBR,2023,97.0
+Germany,DEU,2000,30.2
+Germany,DEU,2001,37.9
+Germany,DEU,2002,45.6
+Germany,DEU,2003,53.3
+Germany,DEU,2004,61.0
+Germany,DEU,2005,68.7
+Germany,DEU,2006,71.36
+Germany,DEU,2007,74.02
+Germany,DEU,2008,76.68
+Germany,DEU,2009,79.34
+Germany,DEU,2010,82.0
+Germany,DEU,2011,83.0
+Germany,DEU,2012,84.0
+Germany,DEU,2013,85.0
+Germany,DEU,2014,86.0
+Germany,DEU,2015,87.0
+Germany,DEU,2016,87.88
+Germany,DEU,2017,88.76
+Germany,DEU,2018,89.64
+Germany,DEU,2019,90.52
+Germany,DEU,2020,91.4
+Germany,DEU,2021,91.93
+Germany,DEU,2022,92.47
+Germany,DEU,2023,93.0
+Japan,JPN,2000,29.9
+Japan,JPN,2001,37.3
+Japan,JPN,2002,44.7
+Japan,JPN,2003,52.1
+Japan,JPN,2004,59.5
+Japan,JPN,2005,66.9
+Japan,JPN,2006,69.16
+Japan,JPN,2007,71.42
+Japan,JPN,2008,73.68
+Japan,JPN,2009,75.94
+Japan,JPN,2010,78.2
+Japan,JPN,2011,80.76
+Japan,JPN,2012,83.32
+Japan,JPN,2013,85.88
+Japan,JPN,2014,88.44
+Japan,JPN,2015,91.0
+Japan,JPN,2016,90.84
+Japan,JPN,2017,90.68
+Japan,JPN,2018,90.52
+Japan,JPN,2019,90.36
+Japan,JPN,2020,90.2
+Japan,JPN,2021,87.8
+Japan,JPN,2022,85.4
+Japan,JPN,2023,83.0
+Indonesia,IDN,2000,0.9
+Indonesia,IDN,2001,1.44
+Indonesia,IDN,2002,1.98
+Indonesia,IDN,2003,2.52
+Indonesia,IDN,2004,3.06
+Indonesia,IDN,2005,3.6
+Indonesia,IDN,2006,5.06
+Indonesia,IDN,2007,6.52
+Indonesia,IDN,2008,7.98
+Indonesia,IDN,2009,9.44
+Indonesia,IDN,2010,10.9
+Indonesia,IDN,2011,13.12
+Indonesia,IDN,2012,15.34
+Indonesia,IDN,2013,17.56
+Indonesia,IDN,2014,19.78
+Indonesia,IDN,2015,22.0
+Indonesia,IDN,2016,28.34
+Indonesia,IDN,2017,34.68
+Indonesia,IDN,2018,41.02
+Indonesia,IDN,2019,47.36
+Indonesia,IDN,2020,53.7
+Indonesia,IDN,2021,57.8
+Indonesia,IDN,2022,61.9
+Indonesia,IDN,2023,66.0
+Kenya,KEN,2000,0.3
+Kenya,KEN,2001,0.86
+Kenya,KEN,2002,1.42
+Kenya,KEN,2003,1.98
+Kenya,KEN,2004,2.54
+Kenya,KEN,2005,3.1
+Kenya,KEN,2006,3.92
+Kenya,KEN,2007,4.74
+Kenya,KEN,2008,5.56
+Kenya,KEN,2009,6.38
+Kenya,KEN,2010,7.2
+Kenya,KEN,2011,9.08
+Kenya,KEN,2012,10.96
+Kenya,KEN,2013,12.84
+Kenya,KEN,2014,14.72
+Kenya,KEN,2015,16.6
+Kenya,KEN,2016,18.88
+Kenya,KEN,2017,21.16
+Kenya,KEN,2018,23.44
+Kenya,KEN,2019,25.72
+Kenya,KEN,2020,28.0
+Kenya,KEN,2021,32.0
+Kenya,KEN,2022,36.0
+Kenya,KEN,2023,40.0
